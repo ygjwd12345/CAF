@@ -1,5 +1,5 @@
-# UCD
-The offical Pytorch code for "Continual Attentive Fusion for Incremental Learning in Semantic Segmentation"
+# CAF
+The offical Pytorch code for ["Continual Attentive Fusion for Incremental Learning in Semantic Segmentation"](https://arxiv.org/abs/2202.00432)
 
 Guanglei Yang,Enrico Fini,Dan Xu,Paolo Rota,Mingli Ding,Xavier Alameda-Pineda,Elisa Ricci
 
